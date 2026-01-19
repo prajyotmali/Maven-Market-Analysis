@@ -29,7 +29,7 @@ The project leverages data from various sources including sales records and cust
 ## Report
 
 1. *Topline Performance*:  
-   ![Topline Performance]()
+   ![Topline Performance](https://github.com/prajyotmali/Maven-Market-Analysis/blob/main/toplineperformance.png)
    - Provides a comprehensive overview of Maven Market's performance metrics for the current month.
    - Displays key indicators such as profit, transactions, and returns, alongside customer demographics and order distribution.
    - Highlights the top 30 brands for inventory restocking, tracks weekly revenue trends, and compares actual revenue to targets.
